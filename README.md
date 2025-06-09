@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I’m Shahbaz Khan
+🎓 BSc in IT | 📊 Certified Data Analyst  
+🚀 Passionate about using data to solve real-world problems  
+📚 Skills: Python, Pandas, SQL, Power BI, Excel, Data Cleaning, Visualization  
 
-<!--
-**ShahbazKhan09/ShahbazKhan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Projects
+- [🛒 Superstore Sales Dashboard](https://github.com/yourusername/Superstore-Sales-Analysis)
+- [📊 COVID-19 Data Analysis](https://github.com/yourusername/Covid19-EDA)
+- [🏠 Housing Price Prediction (ML)](https://github.com/yourusername/Housing-ML)
+- [🧼 Data Cleaning with Pandas](https://github.com/yourusername/Data-Cleaning)
 
-Here are some ideas to get you started:
+📫 Reach me at: [shahbazkhan09dxb@gmail.com] | [LinkedIn]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
