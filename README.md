@@ -14,6 +14,15 @@
 - **Visualization**: Power BI, Tableau, Excel
 - **Databases**: MySQL, PostgreSQL
 - **Others**: Git, Jupyter Notebook, Google Sheets
+- ### 📈 GitHub Stats
 
-📫 Reach me at: [shahbazkhan09dxb@gmail.com] | [LinkedIn:www.linkedin.com/in/shahbaz-khan-9b28851a3]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="github stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default" alt="streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect!: [shahbazkhan09dxb@gmail.com] | [LinkedIn:www.linkedin.com/in/shahbaz-khan-9b28851a3]
 
