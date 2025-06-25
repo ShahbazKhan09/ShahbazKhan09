@@ -23,6 +23,9 @@
 </p>
 
 ---
+### 🎖️ACHIEVEMENTS
+MICROSOFT AI MODULE :https://learn.microsoft.com/api/achievements/share/en-us/SHAHBAZKHAN-3041/4GFQJHSK?sharingId=E19F758DD755D775.  
 
 ### 🤝 Let's Connect!: [shahbazkhan09dxb@gmail.com] | [LinkedIn:www.linkedin.com/in/shahbaz-khan-9b28851a3]
+        
 
